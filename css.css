@@ -5,13 +5,14 @@ body{
     background-repeat: no-repeat;
     background-size: 100% 100%;
 
-   
+
 }
 #nr1 {
-    font-size: 100%;
+    font-size: 300%;
+    background-color: #e2d5de;
 }
 #WygenerujPrawde{
-width: 70%;
-    height: 70%;
+width: 50%;
+    height: 40px;
 
 }
