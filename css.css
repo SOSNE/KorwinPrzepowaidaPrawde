@@ -1,0 +1,17 @@
+body{
+    background-image: url('KorwinZamyślony.jpg');
+    background-attachment:fixed;
+
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+   
+}
+#nr1 {
+    font-size: 100%;
+}
+#WygenerujPrawde{
+width: 70%;
+    height: 70%;
+
+}
